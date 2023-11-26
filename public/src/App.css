@@ -1,0 +1,16 @@
+*{
+  background-color: rgb(110, 6, 110);
+}
+.navbar{
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  padding: 20px 25px 20px 25px;
+}
+.navbar-right ul{
+  display: flex;
+}
+.navbar-right ul li{
+  padding-left: 10px;
+  list-style: none;
+}
